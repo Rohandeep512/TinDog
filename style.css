@@ -26,3 +26,17 @@
   height: 100px;
   border-radius: 50%;
 }
+.feature-icon {
+    display: inline-flex;
+    float: left;
+
+    align-items: center;
+    justify-content: center;
+    width: 4rem;
+    height: 4rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    font-size: 2rem;
+    color: #fff;
+    border-radius: .75rem;
+}
